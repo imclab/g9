@@ -1,0 +1,59 @@
+[
+	{"model": "server.Role",
+	    "pk": 1,
+	    "fields": {
+	      "label": "Principal Investigator"
+	  	}
+	},
+	
+	{"model": "server.Role",
+	    "pk": 2,
+	    "fields": {
+	      "label": "Ph.D. Student"
+	  	}
+	},
+	
+	{"model": "server.Role",
+	    "pk": 3,
+	    "fields": {
+	      "label": "S.M. Students"
+	  	}
+	},
+	
+	{"model": "server.Role",
+	    "pk": 4,
+	    "fields": {
+	      "label": "M.Eng. Students"
+	  	}
+	},
+	
+	{"model": "server.Role",
+	    "pk": 5,
+	    "fields": {
+	      "label": "Undergraduate Researchers"
+	  	}
+	},
+	
+	{"model": "server.Role",
+	    "pk": 6,
+	    "fields": {
+	      "label": "Visiting Scientists"
+	  	}
+	},
+	
+	{"model": "server.Role",
+	    "pk": 7,
+	    "fields": {
+	      "label": "Alumni"
+	  	}
+	},
+	
+	{"model": "server.Role",
+	    "pk": 8,
+	    "fields": {
+	      "label": "Active Member"
+	  	}
+	}	
+
+]
+  

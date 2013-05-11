@@ -117,7 +117,12 @@ INSTALLED_APPS = (
     'django.contrib.staticfiles',
     'django.contrib.admin',
     'django.contrib.admindocs',
-    'server'
+    'server',
+    'db',
+    'nms',
+    'css',
+    'pdos',
+    'south'
 )
 
 # A sample logging configuration. The only tangible logging
